@@ -1,0 +1,6 @@
+pyshark>=0.6
+streamlit>=1.50
+pandas>=2.0
+plotly>=5.18
+scapy>=2.5
+pytest>=8.0

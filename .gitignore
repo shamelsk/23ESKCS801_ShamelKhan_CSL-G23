@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit local settings (may hold secrets)
+.streamlit/secrets.toml
+
+# Capture files: keep only the safe synthetic sample, never real captures
+*.pcap
+*.pcapng
+!sample_traffic.pcap
+
+# Archives and temporary files
+*.zip
+*.tmp

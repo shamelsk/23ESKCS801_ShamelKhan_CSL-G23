@@ -1,0 +1,5 @@
+# Treat capture files as binary so Git never changes line endings inside them
+*.pcap binary
+*.pcapng binary
+*.png binary
+*.pdf binary
